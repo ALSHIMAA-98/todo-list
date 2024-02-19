@@ -1,0 +1,15 @@
+
+.pagewrap {
+    width: 40%;
+    height: 50vh;
+    display: inline-block;
+    margin: 20px;
+    font-size: 25px;
+    min-height: 100%;
+    /* equal to footer height */
+    margin-bottom: -142px; 
+  }
+  .pagewrap:after {
+    height: 142px; 
+    display: block;
+  }

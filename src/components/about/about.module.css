@@ -1,0 +1,38 @@
+
+
+h1 {
+    color: rgb(206, 184, 184);
+    margin: 20px;
+
+}
+
+.b{
+    color: black;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.bg {
+    width: 100vw;
+  height: 100vh;
+  background: url(i.jpg);
+  background-size: cover;
+    padding: 25px;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+    background-repeat: no-repeat;
+    
+
+}
+
+.overlay {
+    width: 45%;
+
+}
+
